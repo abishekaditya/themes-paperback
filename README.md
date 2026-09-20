@@ -44,4 +44,4 @@ Once Paperback automatically pulls into the foreground,  **fully close the app**
 
 > 💡  **Tip:**  If you are using a  **Black Dark Mode**  variant, ensure your system or app setting is forced to Dark Mode to experience the OLED pitch-black profile.
 
-### My fork of the Kavita extension for Paperback (0.8) is available here: [`https://github.com/KenWeTech/kavya-paperback`](https://github.com/KenWeTech/kayva-paperback)
+### My fork of the Kavita extension for Paperback (0.8) is available here: [`https://github.com/KenWeTech/kavya-paperback`](https://github.com/KenWeTech/kavya-paperback)
