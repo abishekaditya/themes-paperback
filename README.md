@@ -23,7 +23,7 @@ Step 1 -
 
 If on iOS device you can find themes from url below:
 
-[`https://KenWeTech.github.io/themes-paperback`](https://KenWeTech.github.io/themes-paperback)
+[`https://abishekaditya.github.io/themes-paperback`](https://abishekaditya.github.io/themes-paperback)
 
 Navigate to the specific theme file you want and download it directly to your device's  **Files** app.
 
@@ -44,4 +44,4 @@ Once Paperback automatically pulls into the foreground,  **fully close the app**
 
 > 💡  **Tip:**  If you are using a  **Black Dark Mode**  variant, ensure your system or app setting is forced to Dark Mode to experience the OLED pitch-black profile.
 
-### My fork of the Kavita extension for Paperback (0.8) is available here: [`https://github.com/KenWeTech/kavya-paperback`](https://github.com/KenWeTech/kavya-paperback)
+### My fork of the Kavita extension for Paperback (0.8) is available here: [`https://github.com/abishekaditya/kavya-paperback`](https://github.com/abishekaditya/kavya-paperback)

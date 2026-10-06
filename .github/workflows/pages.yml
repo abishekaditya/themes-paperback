@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -293,9 +294,9 @@ jobs:
           </html>
           EOF
 
-      - name: Deploy to gh_page
+      - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh_page
+          publish_branch: gh-pages
           publish_dir: ./site
