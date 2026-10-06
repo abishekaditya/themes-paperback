@@ -1,0 +1,256 @@
+{
+	"description": "Cyber Velvet theme for Paperback.",
+	"creator": "KenWeTech",
+	"accentColor": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.08,
+			"blue": 0.52,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1.00,
+			"green": 0.15,
+			"blue": 0.65,
+			"alpha": 1
+		}
+	},
+	"accentColorLight": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.08,
+			"blue": 0.52,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1.00,
+			"green": 0.15,
+			"blue": 0.65,
+			"alpha": 1
+		}
+	},
+	"accentTextColor": {
+		"lightColor": {
+			"red": 0.96,
+			"green": 0.98,
+			"blue": 1.00,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.05,
+			"green": 0.00,
+			"blue": 0.08,
+			"alpha": 1
+		}
+	},
+	"foregroundColor": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.88,
+			"blue": 0.95,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.08,
+			"green": 0.12,
+			"blue": 0.20,
+			"alpha": 1
+		}
+	},
+	"backgroundColor": {
+		"lightColor": {
+			"red": 0.93,
+			"green": 0.95,
+			"blue": 0.98,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.04,
+			"green": 0.06,
+			"blue": 0.11,
+			"alpha": 1
+		}
+	},
+	"overlayColor": {
+		"lightColor": {
+			"red": 0.00,
+			"green": 0.60,
+			"blue": 0.80,
+			"alpha": 0.15
+		},
+		"darkColor": {
+			"red": 0.00,
+			"green": 0.80,
+			"blue": 1.00,
+			"alpha": 0.2
+		}
+	},
+	"separatorColor": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.08,
+			"blue": 0.52,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1.00,
+			"green": 0.15,
+			"blue": 0.65,
+			"alpha": 1
+		}
+	},
+	"borderColor": {
+		"lightColor": {
+			"red": 0.75,
+			"green": 0.82,
+			"blue": 0.92,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.12,
+			"green": 0.20,
+			"blue": 0.35,
+			"alpha": 1
+		}
+	},
+	"titleTextColor": {
+		"lightColor": {
+			"red": 0.04,
+			"green": 0.08,
+			"blue": 0.18,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.93,
+			"green": 0.95,
+			"blue": 0.98,
+			"alpha": 1
+		}
+	},
+	"supertitleTextColor": {
+		"lightColor": {
+			"red": 0.00,
+			"green": 0.50,
+			"blue": 0.70,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.00,
+			"green": 0.85,
+			"blue": 1.00,
+			"alpha": 1
+		}
+	},
+	"bodyTextColor": {
+		"lightColor": {
+			"red": 0.04,
+			"green": 0.08,
+			"blue": 0.18,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.93,
+			"green": 0.95,
+			"blue": 0.98,
+			"alpha": 1
+		}
+	},
+	"subtitleTextColor": {
+		"lightColor": {
+			"red": 0.00,
+			"green": 0.50,
+			"blue": 0.70,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.00,
+			"green": 0.85,
+			"blue": 1.00,
+			"alpha": 1
+		}
+	},
+	"buttonNormalBackgroundColor": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.08,
+			"blue": 0.52,
+			"alpha": 0.2
+		},
+		"darkColor": {
+			"red": 1.00,
+			"green": 0.15,
+			"blue": 0.65,
+			"alpha": 0.25
+		}
+	},
+	"buttonNormalTextColor": {
+		"lightColor": {
+			"red": 0.04,
+			"green": 0.08,
+			"blue": 0.18,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.93,
+			"green": 0.95,
+			"blue": 0.98,
+			"alpha": 1
+		}
+	},
+	"buttonNormalBorderColor": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.08,
+			"blue": 0.52,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1.00,
+			"green": 0.15,
+			"blue": 0.65,
+			"alpha": 1
+		}
+	},
+	"buttonSelectedBackgroundColor": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.08,
+			"blue": 0.52,
+			"alpha": 0.45
+		},
+		"darkColor": {
+			"red": 1.00,
+			"green": 0.15,
+			"blue": 0.65,
+			"alpha": 0.5
+		}
+	},
+	"buttonSelectedTextColor": {
+		"lightColor": {
+			"red": 0.04,
+			"green": 0.08,
+			"blue": 0.18,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.93,
+			"green": 0.95,
+			"blue": 0.98,
+			"alpha": 1
+		}
+	},
+	"buttonSelectedBorderColor": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.08,
+			"blue": 0.52,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1.00,
+			"green": 0.15,
+			"blue": 0.65,
+			"alpha": 1
+		}
+	}
+}

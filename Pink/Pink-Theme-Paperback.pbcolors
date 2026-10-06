@@ -1,0 +1,256 @@
+{
+	"description": "Pink theme for Paperback.",
+	"creator": "KenWeTech",
+	"accentColor": {
+		"lightColor": {
+			"red": 0.72,
+			"green": 0.28,
+			"blue": 0.42,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.92,
+			"green": 0.48,
+			"blue": 0.65,
+			"alpha": 1
+		}
+	},
+	"accentColorLight": {
+		"lightColor": {
+			"red": 0.72,
+			"green": 0.28,
+			"blue": 0.42,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.92,
+			"green": 0.48,
+			"blue": 0.65,
+			"alpha": 1
+		}
+	},
+	"accentTextColor": {
+		"lightColor": {
+			"red": 0.98,
+			"green": 0.93,
+			"blue": 0.95,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.18,
+			"green": 0.03,
+			"blue": 0.08,
+			"alpha": 1
+		}
+	},
+	"foregroundColor": {
+		"lightColor": {
+			"red": 0.88,
+			"green": 0.81,
+			"blue": 0.83,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.15,
+			"green": 0.11,
+			"blue": 0.12,
+			"alpha": 1
+		}
+	},
+	"backgroundColor": {
+		"lightColor": {
+			"red": 0.97,
+			"green": 0.93,
+			"blue": 0.94,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.11,
+			"green": 0.08,
+			"blue": 0.09,
+			"alpha": 1
+		}
+	},
+	"overlayColor": {
+		"lightColor": {
+			"red": 0.64,
+			"green": 0.58,
+			"blue": 0.6,
+			"alpha": 0.3
+		},
+		"darkColor": {
+			"red": 0.46,
+			"green": 0.38,
+			"blue": 0.4,
+			"alpha": 0.3
+		}
+	},
+	"separatorColor": {
+		"lightColor": {
+			"red": 0.72,
+			"green": 0.28,
+			"blue": 0.42,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.92,
+			"green": 0.48,
+			"blue": 0.65,
+			"alpha": 1
+		}
+	},
+	"borderColor": {
+		"lightColor": {
+			"red": 0.84,
+			"green": 0.76,
+			"blue": 0.79,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.24,
+			"green": 0.16,
+			"blue": 0.19,
+			"alpha": 1
+		}
+	},
+	"titleTextColor": {
+		"lightColor": {
+			"red": 0.18,
+			"green": 0.04,
+			"blue": 0.08,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.98,
+			"green": 0.93,
+			"blue": 0.95,
+			"alpha": 1
+		}
+	},
+	"supertitleTextColor": {
+		"lightColor": {
+			"red": 0.38,
+			"green": 0.22,
+			"blue": 0.26,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.78,
+			"green": 0.65,
+			"blue": 0.69,
+			"alpha": 1
+		}
+	},
+	"bodyTextColor": {
+		"lightColor": {
+			"red": 0.18,
+			"green": 0.04,
+			"blue": 0.08,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.98,
+			"green": 0.93,
+			"blue": 0.95,
+			"alpha": 1
+		}
+	},
+	"subtitleTextColor": {
+		"lightColor": {
+			"red": 0.38,
+			"green": 0.22,
+			"blue": 0.26,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.78,
+			"green": 0.65,
+			"blue": 0.69,
+			"alpha": 1
+		}
+	},
+	"buttonNormalBackgroundColor": {
+		"lightColor": {
+			"red": 0.72,
+			"green": 0.28,
+			"blue": 0.42,
+			"alpha": 0.3
+		},
+		"darkColor": {
+			"red": 0.92,
+			"green": 0.48,
+			"blue": 0.65,
+			"alpha": 0.3
+		}
+	},
+	"buttonNormalTextColor": {
+		"lightColor": {
+			"red": 0.18,
+			"green": 0.04,
+			"blue": 0.08,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.98,
+			"green": 0.93,
+			"blue": 0.95,
+			"alpha": 1
+		}
+	},
+	"buttonNormalBorderColor": {
+		"lightColor": {
+			"red": 0.72,
+			"green": 0.28,
+			"blue": 0.42,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.92,
+			"green": 0.48,
+			"blue": 0.65,
+			"alpha": 1
+		}
+	},
+	"buttonSelectedBackgroundColor": {
+		"lightColor": {
+			"red": 0.72,
+			"green": 0.28,
+			"blue": 0.42,
+			"alpha": 0.5
+		},
+		"darkColor": {
+			"red": 0.92,
+			"green": 0.48,
+			"blue": 0.65,
+			"alpha": 0.5
+		}
+	},
+	"buttonSelectedTextColor": {
+		"lightColor": {
+			"red": 0.18,
+			"green": 0.04,
+			"blue": 0.08,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.98,
+			"green": 0.93,
+			"blue": 0.95,
+			"alpha": 1
+		}
+	},
+	"buttonSelectedBorderColor": {
+		"lightColor": {
+			"red": 0.72,
+			"green": 0.28,
+			"blue": 0.42,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.92,
+			"green": 0.48,
+			"blue": 0.65,
+			"alpha": 1
+		}
+	}
+}

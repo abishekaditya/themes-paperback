@@ -1,0 +1,256 @@
+{
+	"description": "Light blue theme for Paperback.",
+	"creator": "KenWeTech",
+	"accentColor": {
+		"lightColor": {
+			"red": 0.1176,
+			"green": 0.4,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.5373,
+			"green": 0.7059,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"accentColorLight": {
+		"lightColor": {
+			"red": 0.1176,
+			"green": 0.4,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.5373,
+			"green": 0.7059,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"accentTextColor": {
+		"lightColor": {
+			"red": 0.9373,
+			"green": 0.9451,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.08,
+			"green": 0.09,
+			"blue": 0.12,
+			"alpha": 1
+		}
+	},
+	"foregroundColor": {
+		"lightColor": {
+			"red": 0.8,
+			"green": 0.8157,
+			"blue": 0.8549,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.1608,
+			"green": 0.1765,
+			"blue": 0.2196,
+			"alpha": 1
+		}
+	},
+	"backgroundColor": {
+		"lightColor": {
+			"red": 0.9373,
+			"green": 0.9451,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.0902,
+			"green": 0.102,
+			"blue": 0.1294,
+			"alpha": 1
+		}
+	},
+	"overlayColor": {
+		"lightColor": {
+			"red": 0.6118,
+			"green": 0.6275,
+			"blue": 0.6902,
+			"alpha": 0.3
+		},
+		"darkColor": {
+			"red": 0.4235,
+			"green": 0.4392,
+			"blue": 0.5255,
+			"alpha": 0.3
+		}
+	},
+	"separatorColor": {
+		"lightColor": {
+			"red": 0.1176,
+			"green": 0.4,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.5373,
+			"green": 0.7059,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"borderColor": {
+		"lightColor": {
+			"red": 0.8,
+			"green": 0.8157,
+			"blue": 0.8549,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.2196,
+			"green": 0.2392,
+			"blue": 0.298,
+			"alpha": 1
+		}
+	},
+	"titleTextColor": {
+		"lightColor": {
+			"red": 0.12,
+			"green": 0.14,
+			"blue": 0.18,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.9412,
+			"green": 0.9529,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"supertitleTextColor": {
+		"lightColor": {
+			"red": 0.35,
+			"green": 0.38,
+			"blue": 0.45,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.6706,
+			"green": 0.702,
+			"blue": 0.7804,
+			"alpha": 1
+		}
+	},
+	"bodyTextColor": {
+		"lightColor": {
+			"red": 0.12,
+			"green": 0.14,
+			"blue": 0.18,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.9412,
+			"green": 0.9529,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"subtitleTextColor": {
+		"lightColor": {
+			"red": 0.35,
+			"green": 0.38,
+			"blue": 0.45,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.6706,
+			"green": 0.702,
+			"blue": 0.7804,
+			"alpha": 1
+		}
+	},
+	"buttonNormalBackgroundColor": {
+		"lightColor": {
+			"red": 0.1176,
+			"green": 0.4,
+			"blue": 0.9608,
+			"alpha": 0.3
+		},
+		"darkColor": {
+			"red": 0.5373,
+			"green": 0.7059,
+			"blue": 0.9804,
+			"alpha": 0.3
+		}
+	},
+	"buttonNormalTextColor": {
+		"lightColor": {
+			"red": 0.12,
+			"green": 0.14,
+			"blue": 0.18,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.9412,
+			"green": 0.9529,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"buttonNormalBorderColor": {
+		"lightColor": {
+			"red": 0.1176,
+			"green": 0.4,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.5373,
+			"green": 0.7059,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"buttonSelectedBackgroundColor": {
+		"lightColor": {
+			"red": 0.1176,
+			"green": 0.4,
+			"blue": 0.9608,
+			"alpha": 0.5
+		},
+		"darkColor": {
+			"red": 0.5373,
+			"green": 0.7059,
+			"blue": 0.9804,
+			"alpha": 0.5
+		}
+	},
+	"buttonSelectedTextColor": {
+		"lightColor": {
+			"red": 0.12,
+			"green": 0.14,
+			"blue": 0.18,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.9412,
+			"green": 0.9529,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"buttonSelectedBorderColor": {
+		"lightColor": {
+			"red": 0.1176,
+			"green": 0.4,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.5373,
+			"green": 0.7059,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	}
+}
