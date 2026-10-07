@@ -30,12 +30,18 @@ jobs:
           done
 
           # Generate a JSON array of all themes for the frontend to digest
+          # Paperback 0.9 themes live under Paperback_0.9/, mirroring the 0.8 layout
           find site -type f -name "*.pbcolors" | sort | sed 's|^site/||' | jq -R -s -c '
-            split("\n")[:-1] | map({
-              path: .,
-              filename: (split("/") | last),
-              folder: (if contains("/") then (split("/")[0]) else "Uncategorized" end)
-            })
+            split("\n")[:-1] | map(
+              (startswith("Paperback_0.9/")) as $v09
+              | (if $v09 then (split("/")[1:] | join("/")) else . end) as $rel
+              | {
+                  path: .,
+                  version: (if $v09 then "0.9" else "0.8" end),
+                  filename: (split("/") | last),
+                  folder: (if ($rel | contains("/")) then ($rel | split("/")[0]) else "Uncategorized" end)
+                }
+            )
           ' > site/themes.json
 
           cat > site/index.html <<'EOF'
@@ -92,6 +98,24 @@ jobs:
                 outline: none;
                 transition: border-color 0.2s;
                 box-sizing: border-box;
+              }
+              .version-toggle {
+                display: flex;
+                justify-content: center;
+                gap: 8px;
+              }
+              .version-toggle button {
+                background: var(--pill-bg);
+                color: var(--text-main);
+                border: 1px solid var(--border);
+                border-radius: 20px;
+                padding: 8px 18px;
+                font-size: 0.95rem;
+                cursor: pointer;
+              }
+              .version-toggle button.active {
+                border-color: var(--accent);
+                color: var(--accent);
               }
               #search-box:focus {
                 border-color: var(--accent);
@@ -182,10 +206,19 @@ jobs:
 
             <header>
               <h1>KenWeTech's Paperback Themes</h1>
+              <div class="version-toggle" role="group" aria-label="Paperback version">
+                <button type="button" data-version="0.9" class="active">Paperback 0.9 (beta)</button>
+                <button type="button" data-version="0.8">Paperback 0.8</button>
+              </div>
               <div class="search-container">
                 <input type="text" id="search-box" placeholder="Search for a theme...">
               </div>
             </header>
+
+            <div class="info-panel">
+              <h3 id="version-note-title"></h3>
+              <ul><li id="version-note"></li></ul>
+            </div>
 
             <div class="info-panel">
               <h3>Theme Variants</h3>
@@ -206,16 +239,27 @@ jobs:
                   const res = await fetch('themes.json');
                   const files = await res.json();
 
-                  // Group files by their parent folder and replace underscores
-                  const folders = {};
-                  files.forEach(file => {
-                    const cleanFolder = file.folder.replace(/_/g, ' ');
-                    if(!folders[cleanFolder]) folders[cleanFolder] = [];
-                    folders[cleanFolder].push(file);
-                  });
-
                   const container = document.getElementById('themes-container');
                   const search = document.getElementById('search-box');
+                  const versionButtons = document.querySelectorAll('.version-toggle button');
+                  const notes = {
+                    '0.9': ['Paperback 0.9 (beta)', 'Paperback 0.9 only imports a file named <code>themeColors.pbcolors</code>, so downloads are saved with that name. If Files adds a number (e.g. <code>themeColors 2.pbcolors</code>), delete the older copy or rename it back first.'],
+                    '0.8': ['Paperback 0.8', 'These themes use the 0.8 format and will not work in the 0.9 beta.']
+                  };
+                  let version = '0.9';
+                  let folders = {};
+
+                  function groupFolders() {
+                    // Group files by their parent folder and replace underscores
+                    folders = {};
+                    files.filter(file => file.version === version).forEach(file => {
+                      const cleanFolder = file.folder.replace(/_/g, ' ');
+                      if(!folders[cleanFolder]) folders[cleanFolder] = [];
+                      folders[cleanFolder].push(file);
+                    });
+                    document.getElementById('version-note-title').textContent = notes[version][0];
+                    document.getElementById('version-note').innerHTML = notes[version][1];
+                  }
 
                   function render(filter = '') {
                     container.innerHTML = '';
@@ -263,7 +307,7 @@ jobs:
 
                         const a = document.createElement('a');
                         a.href = `./${item.path}`;
-                        a.download = item.filename;
+                        a.download = item.version === '0.9' ? 'themeColors.pbcolors' : item.filename;
                         a.className = 'download-pill';
                         a.innerHTML = `
                           <span class="pill-type ${badgeClass}">${type}</span>
@@ -281,6 +325,14 @@ jobs:
                   }
 
                   // Initial render and event listener setup
+                  versionButtons.forEach(button => button.addEventListener('click', () => {
+                    version = button.dataset.version;
+                    versionButtons.forEach(b => b.classList.toggle('active', b === button));
+                    groupFolders();
+                    render(search.value);
+                  }));
+
+                  groupFolders();
                   render();
                   search.addEventListener('input', (e) => render(e.target.value));
 
