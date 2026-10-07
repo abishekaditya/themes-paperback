@@ -1,0 +1,256 @@
+{
+	"description": "Monokai (Monokai Pro Light in light mode) theme with black dark mode for Paperback.",
+	"creator": "abishekaditya",
+	"accentColor": {
+		"lightColor": {
+			"red": 0.882,
+			"green": 0.278,
+			"blue": 0.459,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.976,
+			"green": 0.149,
+			"blue": 0.447,
+			"alpha": 1
+		}
+	},
+	"accentColorLight": {
+		"lightColor": {
+			"red": 0.882,
+			"green": 0.278,
+			"blue": 0.459,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.976,
+			"green": 0.149,
+			"blue": 0.447,
+			"alpha": 1
+		}
+	},
+	"accentTextColor": {
+		"lightColor": {
+			"red": 0.98,
+			"green": 0.957,
+			"blue": 0.949,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.153,
+			"green": 0.157,
+			"blue": 0.133,
+			"alpha": 1
+		}
+	},
+	"foregroundColor": {
+		"lightColor": {
+			"red": 0.929,
+			"green": 0.906,
+			"blue": 0.898,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.243,
+			"green": 0.239,
+			"blue": 0.196,
+			"alpha": 1
+		}
+	},
+	"backgroundColor": {
+		"lightColor": {
+			"red": 0.98,
+			"green": 0.957,
+			"blue": 0.949,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.0,
+			"green": 0.0,
+			"blue": 0.0,
+			"alpha": 1
+		}
+	},
+	"overlayColor": {
+		"lightColor": {
+			"red": 0.647,
+			"green": 0.624,
+			"blue": 0.627,
+			"alpha": 0.3
+		},
+		"darkColor": {
+			"red": 0.459,
+			"green": 0.443,
+			"blue": 0.369,
+			"alpha": 0.3
+		}
+	},
+	"separatorColor": {
+		"lightColor": {
+			"red": 0.882,
+			"green": 0.278,
+			"blue": 0.459,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.976,
+			"green": 0.149,
+			"blue": 0.447,
+			"alpha": 1
+		}
+	},
+	"borderColor": {
+		"lightColor": {
+			"red": 0.827,
+			"green": 0.804,
+			"blue": 0.8,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.286,
+			"green": 0.282,
+			"blue": 0.243,
+			"alpha": 1
+		}
+	},
+	"titleTextColor": {
+		"lightColor": {
+			"red": 0.161,
+			"green": 0.141,
+			"blue": 0.165,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.973,
+			"green": 0.973,
+			"blue": 0.949,
+			"alpha": 1
+		}
+	},
+	"supertitleTextColor": {
+		"lightColor": {
+			"red": 0.439,
+			"green": 0.42,
+			"blue": 0.431,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.812,
+			"green": 0.812,
+			"blue": 0.761,
+			"alpha": 1
+		}
+	},
+	"bodyTextColor": {
+		"lightColor": {
+			"red": 0.161,
+			"green": 0.141,
+			"blue": 0.165,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.973,
+			"green": 0.973,
+			"blue": 0.949,
+			"alpha": 1
+		}
+	},
+	"subtitleTextColor": {
+		"lightColor": {
+			"red": 0.439,
+			"green": 0.42,
+			"blue": 0.431,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.812,
+			"green": 0.812,
+			"blue": 0.761,
+			"alpha": 1
+		}
+	},
+	"buttonNormalBackgroundColor": {
+		"lightColor": {
+			"red": 0.882,
+			"green": 0.278,
+			"blue": 0.459,
+			"alpha": 0.3
+		},
+		"darkColor": {
+			"red": 0.976,
+			"green": 0.149,
+			"blue": 0.447,
+			"alpha": 0.3
+		}
+	},
+	"buttonNormalTextColor": {
+		"lightColor": {
+			"red": 0.161,
+			"green": 0.141,
+			"blue": 0.165,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.973,
+			"green": 0.973,
+			"blue": 0.949,
+			"alpha": 1
+		}
+	},
+	"buttonNormalBorderColor": {
+		"lightColor": {
+			"red": 0.882,
+			"green": 0.278,
+			"blue": 0.459,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.976,
+			"green": 0.149,
+			"blue": 0.447,
+			"alpha": 1
+		}
+	},
+	"buttonSelectedBackgroundColor": {
+		"lightColor": {
+			"red": 0.882,
+			"green": 0.278,
+			"blue": 0.459,
+			"alpha": 0.5
+		},
+		"darkColor": {
+			"red": 0.976,
+			"green": 0.149,
+			"blue": 0.447,
+			"alpha": 0.5
+		}
+	},
+	"buttonSelectedTextColor": {
+		"lightColor": {
+			"red": 0.161,
+			"green": 0.141,
+			"blue": 0.165,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.973,
+			"green": 0.973,
+			"blue": 0.949,
+			"alpha": 1
+		}
+	},
+	"buttonSelectedBorderColor": {
+		"lightColor": {
+			"red": 0.882,
+			"green": 0.278,
+			"blue": 0.459,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.976,
+			"green": 0.149,
+			"blue": 0.447,
+			"alpha": 1
+		}
+	}
+}

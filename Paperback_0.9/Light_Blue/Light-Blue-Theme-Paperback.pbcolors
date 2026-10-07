@@ -1,0 +1,282 @@
+{
+	"accent": {
+		"lightColor": {
+			"red": 0.1176,
+			"green": 0.4,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.5373,
+			"green": 0.7059,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"alert": {
+		"lightColor": {
+			"red": 1,
+			"green": 0.22,
+			"blue": 0.235,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1,
+			"green": 0.259,
+			"blue": 0.271,
+			"alpha": 1
+		}
+	},
+	"alertText": {
+		"lightColor": {
+			"red": 0.9373,
+			"green": 0.9451,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.08,
+			"green": 0.09,
+			"blue": 0.12,
+			"alpha": 1
+		}
+	},
+	"background": {
+		"lightColor": {
+			"red": 0.9373,
+			"green": 0.9451,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.0902,
+			"green": 0.102,
+			"blue": 0.1294,
+			"alpha": 1
+		}
+	},
+	"border": {
+		"lightColor": {
+			"red": 0.8,
+			"green": 0.8157,
+			"blue": 0.8549,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.2196,
+			"green": 0.2392,
+			"blue": 0.298,
+			"alpha": 1
+		}
+	},
+	"error": {
+		"lightColor": {
+			"red": 1,
+			"green": 0.22,
+			"blue": 0.235,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1,
+			"green": 0.259,
+			"blue": 0.271,
+			"alpha": 1
+		}
+	},
+	"foreground": {
+		"lightColor": {
+			"red": 0.8,
+			"green": 0.8157,
+			"blue": 0.8549,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.1608,
+			"green": 0.1765,
+			"blue": 0.2196,
+			"alpha": 1
+		}
+	},
+	"overlay": {
+		"lightColor": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 0.15
+		},
+		"darkColor": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 0.15
+		}
+	},
+	"primary": {
+		"lightColor": {
+			"red": 0.1176,
+			"green": 0.4,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.5373,
+			"green": 0.7059,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"primaryText": {
+		"lightColor": {
+			"red": 0.9373,
+			"green": 0.9451,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.08,
+			"green": 0.09,
+			"blue": 0.12,
+			"alpha": 1
+		}
+	},
+	"secondary": {
+		"lightColor": {
+			"red": 0.1176,
+			"green": 0.4,
+			"blue": 0.9608,
+			"alpha": 0.15
+		},
+		"darkColor": {
+			"red": 0.5373,
+			"green": 0.7059,
+			"blue": 0.9804,
+			"alpha": 0.15
+		}
+	},
+	"secondaryText": {
+		"lightColor": {
+			"red": 0.1176,
+			"green": 0.4,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.5373,
+			"green": 0.7059,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"separator": {
+		"lightColor": {
+			"red": 0.12,
+			"green": 0.14,
+			"blue": 0.18,
+			"alpha": 0.1
+		},
+		"darkColor": {
+			"red": 0.9412,
+			"green": 0.9529,
+			"blue": 0.9804,
+			"alpha": 0.1
+		}
+	},
+	"success": {
+		"lightColor": {
+			"red": 0.204,
+			"green": 0.78,
+			"blue": 0.349,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.188,
+			"green": 0.82,
+			"blue": 0.345,
+			"alpha": 1
+		}
+	},
+	"tertiary": {
+		"lightColor": {
+			"red": 0.9373,
+			"green": 0.9451,
+			"blue": 0.9608,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.0902,
+			"green": 0.102,
+			"blue": 0.1294,
+			"alpha": 1
+		}
+	},
+	"tertiaryText": {
+		"lightColor": {
+			"red": 0.35,
+			"green": 0.38,
+			"blue": 0.45,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.6706,
+			"green": 0.702,
+			"blue": 0.7804,
+			"alpha": 1
+		}
+	},
+	"text": {
+		"lightColor": {
+			"red": 0.12,
+			"green": 0.14,
+			"blue": 0.18,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.9412,
+			"green": 0.9529,
+			"blue": 0.9804,
+			"alpha": 1
+		}
+	},
+	"textSecondary": {
+		"lightColor": {
+			"red": 0.35,
+			"green": 0.38,
+			"blue": 0.45,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.6706,
+			"green": 0.702,
+			"blue": 0.7804,
+			"alpha": 1
+		}
+	},
+	"textTertiary": {
+		"lightColor": {
+			"red": 0.35,
+			"green": 0.38,
+			"blue": 0.45,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.6706,
+			"green": 0.702,
+			"blue": 0.7804,
+			"alpha": 1
+		}
+	},
+	"warning": {
+		"lightColor": {
+			"red": 1,
+			"green": 0.553,
+			"blue": 0.157,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1,
+			"green": 0.573,
+			"blue": 0.188,
+			"alpha": 1
+		}
+	}
+}

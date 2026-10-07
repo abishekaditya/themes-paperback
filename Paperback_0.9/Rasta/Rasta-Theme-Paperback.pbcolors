@@ -1,0 +1,282 @@
+{
+	"accent": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.05,
+			"blue": 0.05,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.95,
+			"green": 0.1,
+			"blue": 0.1,
+			"alpha": 1
+		}
+	},
+	"alert": {
+		"lightColor": {
+			"red": 1,
+			"green": 0.22,
+			"blue": 0.235,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1,
+			"green": 0.259,
+			"blue": 0.271,
+			"alpha": 1
+		}
+	},
+	"alertText": {
+		"lightColor": {
+			"red": 1.0,
+			"green": 1.0,
+			"blue": 1.0,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.0,
+			"green": 0.0,
+			"blue": 0.0,
+			"alpha": 1
+		}
+	},
+	"background": {
+		"lightColor": {
+			"red": 1.0,
+			"green": 0.88,
+			"blue": 0.1,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.85,
+			"green": 0.7,
+			"blue": 0.0,
+			"alpha": 1
+		}
+	},
+	"border": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.05,
+			"blue": 0.05,
+			"alpha": 0.5
+		},
+		"darkColor": {
+			"red": 0.95,
+			"green": 0.1,
+			"blue": 0.1,
+			"alpha": 0.6
+		}
+	},
+	"error": {
+		"lightColor": {
+			"red": 1,
+			"green": 0.22,
+			"blue": 0.235,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1,
+			"green": 0.259,
+			"blue": 0.271,
+			"alpha": 1
+		}
+	},
+	"foreground": {
+		"lightColor": {
+			"red": 0.0,
+			"green": 0.55,
+			"blue": 0.15,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.05,
+			"green": 0.7,
+			"blue": 0.2,
+			"alpha": 1
+		}
+	},
+	"overlay": {
+		"lightColor": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 0.15
+		},
+		"darkColor": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 0.15
+		}
+	},
+	"primary": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.05,
+			"blue": 0.05,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.95,
+			"green": 0.1,
+			"blue": 0.1,
+			"alpha": 1
+		}
+	},
+	"primaryText": {
+		"lightColor": {
+			"red": 1.0,
+			"green": 1.0,
+			"blue": 1.0,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.0,
+			"green": 0.0,
+			"blue": 0.0,
+			"alpha": 1
+		}
+	},
+	"secondary": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.05,
+			"blue": 0.05,
+			"alpha": 0.15
+		},
+		"darkColor": {
+			"red": 0.95,
+			"green": 0.1,
+			"blue": 0.1,
+			"alpha": 0.15
+		}
+	},
+	"secondaryText": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.05,
+			"blue": 0.05,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.95,
+			"green": 0.1,
+			"blue": 0.1,
+			"alpha": 1
+		}
+	},
+	"separator": {
+		"lightColor": {
+			"red": 0.1,
+			"green": 0.1,
+			"blue": 0.1,
+			"alpha": 0.1
+		},
+		"darkColor": {
+			"red": 0.05,
+			"green": 0.05,
+			"blue": 0.05,
+			"alpha": 0.1
+		}
+	},
+	"success": {
+		"lightColor": {
+			"red": 0.204,
+			"green": 0.78,
+			"blue": 0.349,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.188,
+			"green": 0.82,
+			"blue": 0.345,
+			"alpha": 1
+		}
+	},
+	"tertiary": {
+		"lightColor": {
+			"red": 1.0,
+			"green": 0.88,
+			"blue": 0.1,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.85,
+			"green": 0.7,
+			"blue": 0.0,
+			"alpha": 1
+		}
+	},
+	"tertiaryText": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.05,
+			"blue": 0.05,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.95,
+			"green": 0.1,
+			"blue": 0.1,
+			"alpha": 1
+		}
+	},
+	"text": {
+		"lightColor": {
+			"red": 0.1,
+			"green": 0.1,
+			"blue": 0.1,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.05,
+			"green": 0.05,
+			"blue": 0.05,
+			"alpha": 1
+		}
+	},
+	"textSecondary": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.05,
+			"blue": 0.05,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.95,
+			"green": 0.1,
+			"blue": 0.1,
+			"alpha": 1
+		}
+	},
+	"textTertiary": {
+		"lightColor": {
+			"red": 0.85,
+			"green": 0.05,
+			"blue": 0.05,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.95,
+			"green": 0.1,
+			"blue": 0.1,
+			"alpha": 1
+		}
+	},
+	"warning": {
+		"lightColor": {
+			"red": 1,
+			"green": 0.553,
+			"blue": 0.157,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1,
+			"green": 0.573,
+			"blue": 0.188,
+			"alpha": 1
+		}
+	}
+}

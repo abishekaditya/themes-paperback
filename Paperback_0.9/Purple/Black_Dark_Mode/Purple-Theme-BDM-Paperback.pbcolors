@@ -1,0 +1,282 @@
+{
+	"accent": {
+		"lightColor": {
+			"red": 0.48,
+			"green": 0.24,
+			"blue": 0.68,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.72,
+			"green": 0.45,
+			"blue": 0.92,
+			"alpha": 1
+		}
+	},
+	"alert": {
+		"lightColor": {
+			"red": 1,
+			"green": 0.22,
+			"blue": 0.235,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1,
+			"green": 0.259,
+			"blue": 0.271,
+			"alpha": 1
+		}
+	},
+	"alertText": {
+		"lightColor": {
+			"red": 0.96,
+			"green": 0.92,
+			"blue": 0.98,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.11,
+			"green": 0.02,
+			"blue": 0.18,
+			"alpha": 1
+		}
+	},
+	"background": {
+		"lightColor": {
+			"red": 0.95,
+			"green": 0.92,
+			"blue": 0.96,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		}
+	},
+	"border": {
+		"lightColor": {
+			"red": 0.8,
+			"green": 0.75,
+			"blue": 0.83,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.21,
+			"green": 0.15,
+			"blue": 0.24,
+			"alpha": 1
+		}
+	},
+	"error": {
+		"lightColor": {
+			"red": 1,
+			"green": 0.22,
+			"blue": 0.235,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1,
+			"green": 0.259,
+			"blue": 0.271,
+			"alpha": 1
+		}
+	},
+	"foreground": {
+		"lightColor": {
+			"red": 0.84,
+			"green": 0.8,
+			"blue": 0.86,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.14,
+			"green": 0.11,
+			"blue": 0.16,
+			"alpha": 1
+		}
+	},
+	"overlay": {
+		"lightColor": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 0.15
+		},
+		"darkColor": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 0.15
+		}
+	},
+	"primary": {
+		"lightColor": {
+			"red": 0.48,
+			"green": 0.24,
+			"blue": 0.68,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.72,
+			"green": 0.45,
+			"blue": 0.92,
+			"alpha": 1
+		}
+	},
+	"primaryText": {
+		"lightColor": {
+			"red": 0.96,
+			"green": 0.92,
+			"blue": 0.98,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.11,
+			"green": 0.02,
+			"blue": 0.18,
+			"alpha": 1
+		}
+	},
+	"secondary": {
+		"lightColor": {
+			"red": 0.48,
+			"green": 0.24,
+			"blue": 0.68,
+			"alpha": 0.15
+		},
+		"darkColor": {
+			"red": 0.72,
+			"green": 0.45,
+			"blue": 0.92,
+			"alpha": 0.15
+		}
+	},
+	"secondaryText": {
+		"lightColor": {
+			"red": 0.48,
+			"green": 0.24,
+			"blue": 0.68,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.72,
+			"green": 0.45,
+			"blue": 0.92,
+			"alpha": 1
+		}
+	},
+	"separator": {
+		"lightColor": {
+			"red": 0.11,
+			"green": 0.04,
+			"blue": 0.18,
+			"alpha": 0.1
+		},
+		"darkColor": {
+			"red": 0.96,
+			"green": 0.92,
+			"blue": 0.98,
+			"alpha": 0.1
+		}
+	},
+	"success": {
+		"lightColor": {
+			"red": 0.204,
+			"green": 0.78,
+			"blue": 0.349,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.188,
+			"green": 0.82,
+			"blue": 0.345,
+			"alpha": 1
+		}
+	},
+	"tertiary": {
+		"lightColor": {
+			"red": 0.95,
+			"green": 0.92,
+			"blue": 0.96,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0,
+			"green": 0,
+			"blue": 0,
+			"alpha": 1
+		}
+	},
+	"tertiaryText": {
+		"lightColor": {
+			"red": 0.32,
+			"green": 0.22,
+			"blue": 0.38,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.72,
+			"green": 0.65,
+			"blue": 0.78,
+			"alpha": 1
+		}
+	},
+	"text": {
+		"lightColor": {
+			"red": 0.11,
+			"green": 0.04,
+			"blue": 0.18,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.96,
+			"green": 0.92,
+			"blue": 0.98,
+			"alpha": 1
+		}
+	},
+	"textSecondary": {
+		"lightColor": {
+			"red": 0.32,
+			"green": 0.22,
+			"blue": 0.38,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.72,
+			"green": 0.65,
+			"blue": 0.78,
+			"alpha": 1
+		}
+	},
+	"textTertiary": {
+		"lightColor": {
+			"red": 0.32,
+			"green": 0.22,
+			"blue": 0.38,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.72,
+			"green": 0.65,
+			"blue": 0.78,
+			"alpha": 1
+		}
+	},
+	"warning": {
+		"lightColor": {
+			"red": 1,
+			"green": 0.553,
+			"blue": 0.157,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 1,
+			"green": 0.573,
+			"blue": 0.188,
+			"alpha": 1
+		}
+	}
+}
