@@ -1,0 +1,256 @@
+{
+	"description": "Gruvbox theme for Paperback.",
+	"creator": "abishekaditya",
+	"accentColor": {
+		"lightColor": {
+			"red": 0.686,
+			"green": 0.227,
+			"blue": 0.012,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.996,
+			"green": 0.502,
+			"blue": 0.098,
+			"alpha": 1
+		}
+	},
+	"accentColorLight": {
+		"lightColor": {
+			"red": 0.686,
+			"green": 0.227,
+			"blue": 0.012,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.996,
+			"green": 0.502,
+			"blue": 0.098,
+			"alpha": 1
+		}
+	},
+	"accentTextColor": {
+		"lightColor": {
+			"red": 0.984,
+			"green": 0.945,
+			"blue": 0.78,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.157,
+			"green": 0.157,
+			"blue": 0.157,
+			"alpha": 1
+		}
+	},
+	"foregroundColor": {
+		"lightColor": {
+			"red": 0.922,
+			"green": 0.859,
+			"blue": 0.698,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.235,
+			"green": 0.22,
+			"blue": 0.212,
+			"alpha": 1
+		}
+	},
+	"backgroundColor": {
+		"lightColor": {
+			"red": 0.984,
+			"green": 0.945,
+			"blue": 0.78,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.157,
+			"green": 0.157,
+			"blue": 0.157,
+			"alpha": 1
+		}
+	},
+	"overlayColor": {
+		"lightColor": {
+			"red": 0.659,
+			"green": 0.6,
+			"blue": 0.518,
+			"alpha": 0.3
+		},
+		"darkColor": {
+			"red": 0.573,
+			"green": 0.514,
+			"blue": 0.455,
+			"alpha": 0.3
+		}
+	},
+	"separatorColor": {
+		"lightColor": {
+			"red": 0.686,
+			"green": 0.227,
+			"blue": 0.012,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.996,
+			"green": 0.502,
+			"blue": 0.098,
+			"alpha": 1
+		}
+	},
+	"borderColor": {
+		"lightColor": {
+			"red": 0.835,
+			"green": 0.769,
+			"blue": 0.631,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.314,
+			"green": 0.286,
+			"blue": 0.271,
+			"alpha": 1
+		}
+	},
+	"titleTextColor": {
+		"lightColor": {
+			"red": 0.235,
+			"green": 0.22,
+			"blue": 0.212,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.922,
+			"green": 0.859,
+			"blue": 0.698,
+			"alpha": 1
+		}
+	},
+	"supertitleTextColor": {
+		"lightColor": {
+			"red": 0.486,
+			"green": 0.435,
+			"blue": 0.392,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.659,
+			"green": 0.6,
+			"blue": 0.518,
+			"alpha": 1
+		}
+	},
+	"bodyTextColor": {
+		"lightColor": {
+			"red": 0.235,
+			"green": 0.22,
+			"blue": 0.212,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.922,
+			"green": 0.859,
+			"blue": 0.698,
+			"alpha": 1
+		}
+	},
+	"subtitleTextColor": {
+		"lightColor": {
+			"red": 0.486,
+			"green": 0.435,
+			"blue": 0.392,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.659,
+			"green": 0.6,
+			"blue": 0.518,
+			"alpha": 1
+		}
+	},
+	"buttonNormalBackgroundColor": {
+		"lightColor": {
+			"red": 0.686,
+			"green": 0.227,
+			"blue": 0.012,
+			"alpha": 0.3
+		},
+		"darkColor": {
+			"red": 0.996,
+			"green": 0.502,
+			"blue": 0.098,
+			"alpha": 0.3
+		}
+	},
+	"buttonNormalTextColor": {
+		"lightColor": {
+			"red": 0.235,
+			"green": 0.22,
+			"blue": 0.212,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.922,
+			"green": 0.859,
+			"blue": 0.698,
+			"alpha": 1
+		}
+	},
+	"buttonNormalBorderColor": {
+		"lightColor": {
+			"red": 0.686,
+			"green": 0.227,
+			"blue": 0.012,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.996,
+			"green": 0.502,
+			"blue": 0.098,
+			"alpha": 1
+		}
+	},
+	"buttonSelectedBackgroundColor": {
+		"lightColor": {
+			"red": 0.686,
+			"green": 0.227,
+			"blue": 0.012,
+			"alpha": 0.5
+		},
+		"darkColor": {
+			"red": 0.996,
+			"green": 0.502,
+			"blue": 0.098,
+			"alpha": 0.5
+		}
+	},
+	"buttonSelectedTextColor": {
+		"lightColor": {
+			"red": 0.235,
+			"green": 0.22,
+			"blue": 0.212,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.922,
+			"green": 0.859,
+			"blue": 0.698,
+			"alpha": 1
+		}
+	},
+	"buttonSelectedBorderColor": {
+		"lightColor": {
+			"red": 0.686,
+			"green": 0.227,
+			"blue": 0.012,
+			"alpha": 1
+		},
+		"darkColor": {
+			"red": 0.996,
+			"green": 0.502,
+			"blue": 0.098,
+			"alpha": 1
+		}
+	}
+}
